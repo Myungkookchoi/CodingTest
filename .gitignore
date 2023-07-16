@@ -14,8 +14,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-.idea/misc.xml
-.idea/encodings.xml
+!**/.idea/**/
 
 ### NetBeans ###
 /nbproject/private/
